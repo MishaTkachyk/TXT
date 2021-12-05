@@ -1,1 +1,12 @@
-
+ID - 12345;
+Title - the cart button on the page is not clickable https://11111.club;
+Expected result - When you click on the basket icon, a page with the previously added product will open;
+Actual result - When you click on the basket icon, nothing happens, the icon is not clickable;
+Steps to reproduce:
+   steps1 - Open https://222.club;
+   steps2 - Add any product to the cart;
+   steps3 - Go to the payment page https://11111.club;
+   steps4 - Click on the trash can icon.
+Severity - Minor;
+Priority - Medium
+Environment - Google Chrome Version 96.0.4664.55 (Official assembly),(x86_64).
