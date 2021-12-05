@@ -1,0 +1,26 @@
+Course program:
+1)Basic theory(What is testing,bug-reports,documentation,kinds,methods,testing directions,SDLC,STLC);
+2)What is client-server architecture;
+3)Server request methods;
+4)Answers server;
+5)Request and response structures;
+6)What JSON, XML. Their structure;
+7)Testing API;
+8)Withdrawal and reading logs;
+9)Postman, Fidler;
+10)VPN.(How it works, why you need it, how to use it, tool options);
+11)Dev Tools web browsers (Google Chrome, FireFox);
+12)Mobile testing;
+13)Peculiarity iOS,Android,guidelines;
+14)Building iOS apps with Xcode;
+15)Building Android applications on Android Studio;
+16)Interception of mobile traffic (sniffing) across Charles;
+17)Setting a proxy on iOS and Android;
+18)Command line (terminal) Linux Ubuntu. Copy, create, view, move files on servers without a GUI;
+19)Simple bash scripting, automation of routine tasks on the server;
+20)Access to remote servers;
+21)The basics SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join;
+22)Git;
+23)Jmeter;
+24)Scrum development methodology;
+25)Python.Creating your own client-server application.
